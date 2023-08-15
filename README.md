@@ -21,3 +21,4 @@ Whether you're interested in collaborating on an exciting project, learning toge
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-tapia-jara-46b909265/)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil%20Personal-black?style=for-the-badge&logo=github)](https://github.com/josetapia97)
+[![Download CV](https://img.shields.io/badge/Descargar%20CV-PDF-green?style=for-the-badge)](https://github.com/josetapia97/MyResume/blob/main/Jose%20Francisco%20Tapia%20Jara%20CV2023EN.pdf)
