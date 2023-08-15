@@ -18,9 +18,6 @@ I'm passionate about exploring cutting-edge technologies and finding innovative 
 ## Let's Connect!
 
 Whether you're interested in collaborating on an exciting project, learning together, or just discussing technology, feel free to get in touch!
-[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-tapia-jara-46b909265/)
-[GitHub](https://github.com/josetapia97)
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=flat-square&logo=linkedin)]((https://www.linkedin.com/in/jos%C3%A9-tapia-jara-46b909265/))
-[![GitHub](https://img.shields.io/badge/GitHub-Personal%20Profile-black?style=flat-square&logo=github)]((https://github.com/josetapia97)https://github.com/josetapia97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-tapia-jara-46b909265/)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil%20Personal-black?style=for-the-badge&logo=github)](https://github.com/josetapia97)
