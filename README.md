@@ -1,19 +1,23 @@
 # Hey there, I'm José! 👋
 
-I'm a computer engineering enthusiast, always excited about emerging technologies. My journey has ranged from training LSTM models in Python to full-stack projects in C# with .NET, utilizing technologies like Entity Framework and Blazor.
+I'm a computer engineering enthusiast with a passion for emerging technologies. My journey includes training LSTM models in Python, working on full-stack projects in C# with .NET (utilizing technologies like Entity Framework and Blazor), creating custom web applications with PHP and JavaScript, and developing mobile applications using Flutter and native app development.
 
 ## Experience and Projects
 
-- 🧠 LSTM model training in Python
-- 💻 Full-stack development with C# and .NET
-- 📦 Working with Entity Framework and Blazor
-- 🌐 Custom projects in PHP and JavaScript
-- 📱 Google Apps Script applications and Google tech
-- 👨‍🏫 Educator in the field of computer science
+- 🧠 **Machine Learning Enthusiast:** Trained LSTM models in Python.
+- 💻 **Full-Stack Developer:** Worked on various full-stack projects using C# and .NET. Utilized technologies such as Entity Framework and Blazor.
+- 🌐 **Web Development:** Created custom web applications using PHP and JavaScript.
+- 📱 **Mobile App Developer:** Developed mobile applications using Flutter and native app development.
+- 📱 **Google Tech Enthusiast:** Developed applications using Google Apps Script and other Google technologies.
+- 👨‍🏫 **Teacher:** Passionate about teaching computer science and sharing knowledge with others.
 
 ## My Interests
 
-I'm passionate about exploring cutting-edge technologies and finding innovative solutions to problems. I'm always excited to learn something new and share my knowledge with others.
+Passionate about exploring cutting-edge technologies and finding innovative solutions to problems. Always excited to learn something new and share knowledge with others.
+
+## Check Out My Projects! 🚀
+
+Explore my work in more detail in the technologies I've mentioned above. More information about each project can be found in the corresponding technology sections below.
 
 ## Let's Connect!
 
