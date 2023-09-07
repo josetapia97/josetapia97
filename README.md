@@ -15,7 +15,7 @@ I'm a computer engineering enthusiast with a passion for emerging technologies. 
 
 Passionate about exploring cutting-edge technologies and finding innovative solutions to problems. Always excited to learn something new and share knowledge with others.
 
-## Check Out My Projects! 🚀
+# 🚀 Check Out My Projects!
 
 Explore my work in more detail in the technologies I've mentioned above. More information about each project can be found in the corresponding technology sections below.
 
