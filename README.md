@@ -5,8 +5,8 @@ I'm a computer engineering enthusiast with a passion for emerging technologies. 
 ## Experience and Projects
 
 - 🧠 **Machine Learning Enthusiast:** Trained LSTM models in Python.
-- 💻 **Full-Stack Developer:** Worked on various full-stack projects using C# and .NET. Utilized technologies such as Entity Framework and Blazor.
 - 📱 **Mobile App Developer:** Developed mobile applications using Flutter and native app development.
+- 💻 **Full-Stack Developer:** Worked on various full-stack projects using C# and .NET. Utilized technologies such as Entity Framework and Blazor.
 - 👨‍🏫 **Teacher:** Passionate about teaching computer science and sharing knowledge with others.
 - 🌐 **Web Development:** Created custom web applications using PHP and JavaScript.
 - 📱 **Google Tech Enthusiast:** Developed applications using Google Apps Script and other Google technologies.
@@ -26,4 +26,4 @@ Whether you're interested in collaborating on an interesting project, learning t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-tapia-jara-46b909265/)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil%20Personal-black?style=for-the-badge&logo=github)](https://github.com/josetapia97)
-[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-green?style=for-the-badge)](https://drive.google.com/file/d/1TyLfkIsFduXxx6brYG3Up_bZPSJfKW7F/view?usp=sharing)
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-green?style=for-the-badge)](https://drive.google.com/file/d/1TeYux1MyulO2-hPZeE_Sfr3wtLoab6e8/view?usp=sharing)
