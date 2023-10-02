@@ -26,4 +26,4 @@ Whether you're interested in collaborating on an interesting project, learning t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-tapia-jara-46b909265/)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil%20Personal-black?style=for-the-badge&logo=github)](https://github.com/josetapia97)
-[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-green?style=for-the-badge)](https://drive.google.com/file/d/1ElLpQdO1C7As-FB1lB1_aQBODW7gNFB3/view?usp=sharing)
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-green?style=for-the-badge)](https://drive.google.com/file/d/1TyLfkIsFduXxx6brYG3Up_bZPSJfKW7F/view?usp=sharing)
